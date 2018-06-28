@@ -1,3 +1,3 @@
 # js-fundamentals-exam-preparation
-JavaScript snipets for exam preparation 
-JSFundamentals @ SoftUni 2018
+JSFundamentals @ SoftUni 2018 JavaScript snipets for exam preparation 
+
