@@ -18,6 +18,8 @@ function fruitShop([arg1, arg2, arg3]) {
         if(fruit === "kiwi") console.log(2.70 * quantity);
         if(fruit === "pineapple") console.log(5.50 * quantity);
         if(fruit === "grapes") console.log(3.85 * quantity);         
+    }else{
+        console.log("error");
     }
 }
 fruitShop(["apple", "Tuesday", 2])
